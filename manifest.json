@@ -1,0 +1,16 @@
+{
+  "name": "learning",
+  "description": "Foundations package holding the application logic of the elementary entities.",
+  "version": "2.0",
+  "authors": [
+    "Cedric Francoys"
+  ],
+  "license": "LGPL-3",
+  "depends_on": [],
+  "apps": [
+    "learning"
+  ],
+  "tags": [
+    "equal"
+  ]
+}
