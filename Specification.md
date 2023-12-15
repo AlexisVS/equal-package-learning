@@ -44,6 +44,8 @@ Dans le cadre du développement de ce projet, certaines consignes devront être 
 - Page
 - Section
 - Leaf
+- Group
+- Widget
 
 ## Layout
 
